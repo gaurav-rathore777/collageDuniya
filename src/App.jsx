@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import routes from './routes/routes';
 import NotFound from './pages/NotFound';
-
+// import '@fontsource/poppins';
 const App = () => {
   return (
     <Router>
