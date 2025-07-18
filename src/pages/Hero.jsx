@@ -6,7 +6,7 @@ const Hero = () => {
     <div className='container bg-amber-200 h-full flex flex-row w-full'>
 
       <div className='w-1/2 p-10'>
-         uibooasfijadfi
+         uibooasfijadfiasdfasdfasdfdsafasdfsdaf
       </div>
       <div>
        sfadsasf
